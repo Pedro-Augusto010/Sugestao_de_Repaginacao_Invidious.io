@@ -17,7 +17,7 @@ volume e a qualidade do vídeo.
 navegação.
 
 - Sistema de busca: permite localizar vídeos por meio de palavras-chave.
-- 
+
 - Sistema de controle de uso: mostra o tempo de navegação e ajuda o usuário a
 limitar o tempo gasto na plataforma. O usuário interage com esses sistemas por meio de
 cliques, botões e campos de busca, o que torna a navegação simples e intuitiva.
