@@ -1,4 +1,4 @@
-# Sugestao de Repaginacao do Invidious.io
+# Sugestao de Repaginação do Invidious.io
 
 
 ## 1. Sistemas Multimídia
